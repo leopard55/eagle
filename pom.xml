@@ -4,7 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.leopard</groupId>
     <artifactId>eagle</artifactId>
+    <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
+    <modules>
+        <module>spring-ioc-appcontext</module>
+    </modules>
     <name>eagle</name>
     <description>Demo project for Spring Boot</description>
 
